@@ -62,4 +62,4 @@ Now ,these are the 3 objectives that this project tries to fulfill-which are
 - Choose the most appropriate model based on evaluation metrics.
 - Generate forecasts for risk-adjusted returns in the investment strategy.
 
-Remember, this pipeline is a general outline of the steps you can follow in your project. Adjustments might be needed based on specific data characteristics and project requirements.
+
